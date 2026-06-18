@@ -1,0 +1,13 @@
+# Claude Code 세션/설정 (저장소에 올리지 않음)
+.claude/
+
+# Python 캐시
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS
+Thumbs.db
+desktop.ini
